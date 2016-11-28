@@ -6,6 +6,7 @@ An app that displays emojis in a grid view. This app uses the following tools/fr
 - [Parcel auto-value extension](https://github.com/rharter/auto-value-parcel)
 - [Picasso](https://github.com/square/picasso)
 
+![](https://github.com/rohitramkumar308/Emoji/blob/master/app_screenshot_1.png)
 ## Contributing
 
 1. Fork it!
