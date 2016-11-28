@@ -1,9 +1,10 @@
 # Emoji
-An app that displays emojis in a grid view. This app uses the following frameworks:
+An app that displays emojis in a grid view. This app uses the following tools/frameworks:
 - [Dagger 2](https://github.com/codepath/android_guides/wiki/Dependency-Injection-with-Dagger-2)
 - [Retrofit 2](https://github.com/codepath/android_guides/wiki/Consuming-APIs-with-Retrofit) 
 - [Data binding(MVVM)](https://github.com/codepath/android_guides/wiki/Applying-Data-Binding-for-Views)
 - [Parcel auto-value extension](https://github.com/rharter/auto-value-parcel)
+- [Picasso](https://github.com/square/picasso)
 
 ## Contributing
 
